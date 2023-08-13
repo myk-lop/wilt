@@ -4,4 +4,4 @@
 
 ### GITHUB
 
-- [Hide personal email on your Github Activities](git/hide-personal-email-on-your-commits.md)
+- [Hide personal email on your Github Activities](github/hide-personal-email-on-your-commits.md)
