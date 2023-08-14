@@ -3,6 +3,7 @@
 ### GIT
 
 - [Setting your commit email address in Git](git/setting-your-commit-email-address-in-git.md)
+- [Push your local branch to remote branch with different name](git/push-local-branch-to-remote-branch-with-different-name.md)
 
 ### GITHUB
 
