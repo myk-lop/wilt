@@ -10,7 +10,7 @@ Open your terminal
 `git config user.email "YOUR_EMAIL"`<br />
 `git config user.email "YOUR_NAME"`
 
-To confirm that you have set the email address correctly in Git:
+To confirm that you have set the email address correctly in Git: <br />
 `git config user.email`<br />
 `git config user.name`
 
