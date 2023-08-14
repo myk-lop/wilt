@@ -8,7 +8,7 @@ Open your terminal
 
 ### For single repository
 `git config user.email "YOUR_EMAIL"`<br />
-`git config user.email "YOUR_NAME"`
+`git config user.name "YOUR_NAME"`
 
 To confirm that you have set the email address correctly in Git: <br />
 `git config user.email`<br />
