@@ -1,7 +1,7 @@
 # What I learned today
 
 ### HTML
-- [<time>: The (Date) Time element](html/time-date-element.md)
+- [`<time>`: The (Date) Time element](html/time-date-element.md)
 
 ### GIT
 
