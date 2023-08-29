@@ -1,5 +1,8 @@
 # What I learned today
 
+### HTML
+- [<time>: The (Date) Time element](html/time-date-element.md)
+
 ### GIT
 
 - [Setting your commit email address/name in Git](git/setting-your-commit-email-address-in-git.md)
