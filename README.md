@@ -1,9 +1,11 @@
 # What I learned today
 
 ### CSS
+
 - [Turn value for rotate property](css/turn-value-for-rotate-property.md)
 
 ### HTML
+
 - [`<time>`: The (Date) Time element](html/time-date-element.md)
 
 ### GIT
@@ -15,3 +17,9 @@
 ### GITHUB
 
 - [Hide personal email on your Github Activities](github/hide-personal-email-on-your-commits.md)
+
+### Programming - general concepts
+
+- [Imperative vs Declarative Programming](programming/imperative-vs-declarative.md)
+
+### React.js
