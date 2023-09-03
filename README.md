@@ -18,6 +18,10 @@
 
 - [Hide personal email on your Github Activities](github/hide-personal-email-on-your-commits.md)
 
+### JS
+
+- (The filter(Boolean) Trick)[js/filter(Boolean)-trick.md]
+
 ### Programming - general concepts
 
 - [Imperative vs Declarative Programming](programming/imperative-vs-declarative.md)
