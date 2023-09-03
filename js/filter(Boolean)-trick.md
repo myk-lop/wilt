@@ -27,4 +27,4 @@ is exactly the same as this:
 array.filter(Boolean)
 ```
 
-(Original full source)[https://michaeluloth.com/javascript-filter-boolean/]
+[Original full source](https://michaeluloth.com/javascript-filter-boolean/)
