@@ -20,7 +20,7 @@
 
 ### JS
 
-- (The filter(Boolean) Trick)[js/filter(Boolean)-trick.md]
+- [The filter(Boolean) Trick](<js/filter(Boolean)-trick.md>)
 
 ### Programming - general concepts
 
