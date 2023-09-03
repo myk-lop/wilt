@@ -21,6 +21,7 @@
 ### JS
 
 - [The filter(Boolean) Trick](<js/filter(Boolean)-trick.md>)
+- [Array.prototype.fill() method](js/array-fill-method.md)
 
 ### Programming - general concepts
 
