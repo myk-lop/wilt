@@ -26,5 +26,6 @@
 ### Programming - general concepts
 
 - [Imperative vs Declarative Programming](programming/imperative-vs-declarative.md)
+- [Memoization in general](programming/memoization.md)
 
 ### React.js
