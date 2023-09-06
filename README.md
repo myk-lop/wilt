@@ -29,3 +29,5 @@
 - [Memoization in general](programming/memoization.md)
 
 ### React.js
+
+- [Using refs to check if a component is still mounted.](react/using-refs-to-check-if-component-is-still-mounted.md)
