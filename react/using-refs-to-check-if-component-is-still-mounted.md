@@ -1,6 +1,7 @@
 # Using refs to check if a component is still mounted.
 
 This is useful because if you try to update the state of a component that is already unmounted you will get the error.
+(upd: Looks like with React v.18 it is no more a problem)
 
 ```
 //useMountedRef.js
