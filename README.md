@@ -35,3 +35,7 @@
 ### Typescript
 
 - [Omit - utility type](typescript/omit-type.md)
+
+### Webpack
+
+- [Webpack magic comments](webpack/webpack-magic-comments.md)
