@@ -39,3 +39,4 @@
 ### Webpack
 
 - [Webpack magic comments](webpack/webpack-magic-comments.md)
+- [Workerize loader](webpack/workerize-loader.md)
