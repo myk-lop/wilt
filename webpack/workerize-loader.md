@@ -6,6 +6,6 @@ A webpack loader that moves a module and its dependencies into a Web Worker, aut
 - If exported module methods are already async, signature is unchanged
 - Supports synchronous and asynchronous worker functions
 - Works beautifully with async/await
-- Imported value is instantiable, just a decorated Worker
+- Imported value is instantiable, just a decorated Worker.
 
 [Source (npm package)](https://www.npmjs.com/package/workerize-loader)
